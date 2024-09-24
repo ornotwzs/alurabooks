@@ -1,4 +1,4 @@
-@import url("styles/header.css");
+import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
@@ -15,8 +15,8 @@
     --azul: #6a2c6f;
     --fonte-secundario: "Josefin Sans";
     --preto: #6a2c6f;
-    --cinza: #6a2c6f;
-    --cinza-claro: #6a2c6f;
+    --cinza:#6a2c6f;
+    --cinza-claro:#6a2c6f;
 }
 
 body {
